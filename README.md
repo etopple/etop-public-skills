@@ -89,6 +89,7 @@ We're a managed IT and security provider in Redlands, CA. We build AI into how w
 **Want help putting AI to work in your business?** Let's talk.
 
 - 🌐 [etoptechnology.com](https://etoptechnology.com)
+- ✉️ [sales@etoptechnology.com](mailto:sales@etoptechnology.com)
 - 📞 951-398-0021
 - 📍 611 W. Redlands Blvd., Suite G, Redlands, CA 92373
 
